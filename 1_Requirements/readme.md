@@ -6,10 +6,9 @@ These are the services which this system will provide.
 These are the facilities and functions required by thecustomer
 a) Online balance check.
 b) Online shopping opportunity.
-c) Online data entry by the staff.
-d) Updating the data.
-e) Balance transfer.
-f) Check book Allotment.
+c) Updating the data.
+d) Balance transfer.
+e) Check book Allotment.
 # Low level Requirements 
   There are some specific Requirements:
   That the online banking will interact with the environment,  These all the steps should be defined here for providing a powerful base to the design phase. The design of the project will completely depend on the functional and non-functionalrequirements. So these should be defined clearly and accurately for the effectiveness.
