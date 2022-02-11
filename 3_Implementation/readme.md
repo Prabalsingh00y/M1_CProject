@@ -1,6 +1,9 @@
 
 Here is the  code of Online Bnaking System which we have implemented on visual stdio.
-here is the code--
+# here is the code--
+
+
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
