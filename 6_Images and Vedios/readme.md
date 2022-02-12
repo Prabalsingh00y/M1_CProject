@@ -1,6 +1,6 @@
-#  images of the project according the steps
+#  Images of the project according the steps
 ## When the user runs the code
-!![Screenshot (152)](https://user-images.githubusercontent.com/98878562/153709752-a90e69e2-f588-475a-a821-457499526474.png)
+[Screenshot (152)](https://user-images.githubusercontent.com/98878562/153709752-a90e69e2-f588-475a-a821-457499526474.png)
 ## When a user selects option 1, they create an account
 ![Screenshot (153)](https://user-images.githubusercontent.com/98878562/153709865-827b5040-0382-4d9c-abe7-79b734231435.png)
 ## A bank account is successfully created when a user wants to login into an accoun
@@ -15,12 +15,12 @@ User can see the current balance
 ![Screenshot (220)](https://user-images.githubusercontent.com/98878562/153710197-4cb3643a-1cfd-4eba-bd2f-cc8f6021ca32.png)
 ![Screenshot (221)](https://user-images.githubusercontent.com/98878562/153710200-352f7bd8-4789-4d48-a696-eafbd3e77e9e.png)
  User seen thatYou have depostied Rs.15000
-## When the user chooses option 3!
+## When the user chooses option 3
 ![Screenshot (222)](https://user-images.githubusercontent.com/98878562/153710256-d42b3e73-b4fc-40a7-bf7f-87f7a40901c3.png)
 ![Screenshot (223)](https://user-images.githubusercontent.com/98878562/153710259-0eb14b02-6ecb-4f3f-b0af-2c44354b1f86.png)
 User seen 
 You have withdrawn
-## When the user chooses option 4!
+## When the user chooses option 4
 ![Screenshot (310)](https://user-images.githubusercontent.com/98878562/153710398-50e92801-f9b1-421e-8a42-ee3676172f77.png)
 ![Screenshot (311)](https://user-images.githubusercontent.com/98878562/153710402-6b3b619c-80eb-4b22-870a-6be700c717ec.png)
  User seen Your trasfer is completed. You have trasnfered Rs.5000 to Mob.NO.
