@@ -15,7 +15,9 @@ Users need to register an account with an account number, phone number, and pass
 ## Low Level Requirement
 
 1.) To give input to system
+
 2.) To add an account of the user 
+
 3.) To get the details of the customer to perform several functions.
 
 # SWOT Analysis
