@@ -6,8 +6,7 @@ The design of this Online Banking System where users will be able to register an
 
 ## Scope of work
 
-## Register, Log-in
--  First User have to  create hiis own account  account by entering their  credentials like account number, phone number, and passwordand then he  can log in their account with their phone number and password to access all th functions.
+-  First User have to  create/register his own account  by entering their  credentials like account number, phone number, and passwordand then he  can login their account with their phone number and password to access all th functions.
 ## Home
 - User can view different functions  on the homepage.
 - User have the option for the checking their  balance.
