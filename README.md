@@ -20,4 +20,4 @@ ProjectLab(https://123projectlab.com/)
 codewithc(https://www.codewithc.com/mini-project-in-c-bank-management-system/)
 Projectgeek(https://projectsgeek.com/2013/06/banking-project-in-c-language-source-code.html)
 Youtube(https://youtu.be/eGaImwD8fPQ)
-## In this Miniproject and code,I had taken help from youtube and google to make this
+##In this Miniproject and code,I had taken help from youtube and google to make this.
