@@ -1,61 +1,48 @@
 # Discription: 
 Discription-- Online banking allows a user to conduct financial transactions via the Internet. Online banking offers customers almost every service traditionally available through a local branch including deposits, transfers, and online bill payments. The online banking interface is primarily designed for online banking for balance inquiry, depositing cash, cash withdrawal, online transfer, and password change. The most typical way to retain the data of a customer in a bank was to enter and register the details: Any time when consumer has to make any transactions, he must go to the bank and take the required steps, which might not be possible all the time. This project offers a real life understanding of the online banking System environment.
-# High level Requirement:
- There are some Functional Requirements are :
-These are the services which this system will provide. 
-These are the facilities and functions required by thecustomer
-a) Online balance check.
-b) Cash Withdrawl
-c) Updating the data.
-d) Balance transfer.
-e) Check book Allotment.
-# Low level Requirements 
-  There are some specific Requirements:
-  That the online banking will interact with the environment,  These all the steps should be defined here for providing a powerful base to the design phase. The design of the project will completely depend on the functional and non-functionalrequirements. So these should be defined clearly and accurately for the effectiveness.
-  There are some Software Quality Attributes requirements:
-The Quality of the System is maintained insuch a way so that it can be very user friendly to all the users.
-The software quality attributes are assumed as under:
-a) Accurate 
-b)reliable.
-c) Secured.
-d) Fast speed.
-e) Compatibility
 
-# SWOT Analysis 
+# Features 
+## In the online banking system--
+Users need to register an account with an account number, phone number, and password. So that, the user will be able to login using that phone number and password. After customer types the correct credentials like  phone number and password,the user will have the five options. That is Balancce Enquiry, Adding Fund,  Cash withdrawl, Online transfer , Change Password so that users will be able to check their balance, and able to deposit cash, be able to withdraw cash and able to transfer money online to another account, and also acess tochange the password of their account.
 
-Strengths-  
-1.) online banks are able to provide faster and more efficient transactions.
-2.) the Internet allows online banks to reduces their costs and thus achieve a cost
-advantage.
-3.) It results with  more efficiency, faster operations, additional
-reduction on costs and achievement of economies of scale.
-4.)  Improved customer experience : Several Open Banking specifications have come up with their own customer experience guidelines. These guidelines the customers gain a seamless and frictionless experience with their bank regardless of the TPP application they choose.
+## High Level Requirement
 
-Weakness--
-1.)Standing on the customers’ perspective, security about personal data and its integrity represents one of
-the main issues. 
-2.) Online banks need to invest considerable amount of money on security software as thefts of account information and virus attacks towards banks’ databases occur with high frequency
-3.) Weakens bank-customer relationship: Because everything is handled digitally, the face-to-face encounters between the customer and the bank are getting smaller. This can lead to a breakdown in the relationship.
-4.)  Customers lack a considerable amount of credibility towards Open Banking. It is partly due to the fear of sharing their data, as well as to their lack of knowledge of how it works.
+1.) To view list of functions.
+2.) To select the operation which user want to perform in their account.
+3.) To perform the selected operation that the user had choosen .
+4.)To get the required result by system  as per the user.
 
-Oppurtunities:--
-1.) One of the most profitable opportunities that online banks should take
-advantage of is the expansion of financial markets. 
-2.) online banks would be able to differentiate their services and thus achieving a competitive advantage not only over other online banks, both domestic and foreign, but also over traditional banks and other financial institutions.
-3.)The collaboration between banks and other stakeholders sets the
-basis for the implementation of new business strategies which eventually lead
-to value creation for both customers and banks.
-4.)Another big opportunity is represented by the extensive net of contacts
-offered by the Internet. In fact, Internet enhances
-communication and networking opening the path for new business
-opportunities which involve the collaborations between banks and other newly created professional figures such as online stores and service providers. 
+## Low Level Requirement
 
-Threats:--
-1.Online banks are threatened by traditional banks which offer
-differentiated products, financial institutions which provide specific financial
-solutions and above all foreign banks. 
-2.) The lack of supervision on online activities and the implementation of effective legal norms prevent online banks from running a flawless business.
-3.)  The growth of those companies that have replaced the banks is a major drawback for Open Banking. The Fintech market is growing. Their services are diverse and more and more there in a large number .
- # 4 W's 1_H
+1.) To give input to system
+2.) To add an account of the user 
+3.) To get the details of the customer to perform several functions.
+
+# SWOT Analysis
+
+|Strength|Weakness|Opportunities|Threats|
+|:--:|:--:|:--:|:--:|
+|Centralized services|Weakens bank-customer relationship|Raising awareness of thr benefits of digital banking|Lack of customer Loyality|
+|Save time and efforts|Lack of information|Reliability|Competitive market|
+|Availabilty|Network difficulties|Fast growing|Networking|
+|Faster transaction with lower costs|Can ony target specefic customers | Developing modern Banking to avoid system failures|Lack of effective rules|
+|Easy to access|Limited Services|Fast creating account|Lack of knowledge|
+
+
+# 4W's 1-H
+## What-
+In this ,the customer or users will be able to register  a Account so that they can  login into that account and perform several functions as in Bank Protocols.
+## Where-
+In this, users can transfer Funds/Money to another  bank account in the same existing bank and users will also be able to add funds, check their balances etc.
+## Who-
+In this,the user has only access to their credentials access  of their Bank account like  phone number and password.
+## When-
+ In This , The user allows to access their account details at any time by entering their credentials like account no. and password,So that they can use  all of the functionsin their bank account  at any time.
+## Why-
+ In  todays time ,the Online banking systems became most important to the users  because  in these days there are so many people who will not able to reach their bank, because their busy schedule so it's  very easy and convienient way for those users to perform these tasks  by using their gadgets like  Mobile/Laptop.
+## How-
+ In This, The user must have to register first in the account, and then,  by using their credentials like account  id and password, they can perform  several functions like balance inquiries and many more.
+
+
  
 
