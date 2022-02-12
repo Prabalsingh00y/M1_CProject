@@ -1,5 +1,5 @@
 
-# Some images related to the project
+#  images of the project according the steps
 ## When the user runs the code
 !![Screenshot (152)](https://user-images.githubusercontent.com/98878562/153709752-a90e69e2-f588-475a-a821-457499526474.png)
 
