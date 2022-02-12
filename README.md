@@ -17,10 +17,20 @@ Online banking allows a user to conduct financial transactions via the Internet.
 |6_ImagesAndVideos|All images related to the programming and video|
 ## References
 Synopsis]https://www.freestudentprojects.com
+
+
 Project Lab]https://123projectlab.com/
+
+
 codewithc](https://www.codewithc.com/mini-project-in-c-bank-management-system/
+
+
 Projectgeek](https://projectsgeek.com/2013/06/banking-project-in-c-language-source-code.html)
+
+
 You tube] (https://youtu.be/eGaImwD8fPQ)
+
+
 ## In this  Mini -project and code, I had taken help from youtube and google to make this.
 
 
