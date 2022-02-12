@@ -39,8 +39,22 @@ the main issues.
 4.)  Customers lack a considerable amount of credibility towards Open Banking. It is partly due to the fear of sharing their data, as well as to their lack of knowledge of how it works.
 
 Oppurtunities:--
-One of the most profitable opportunities that online banks should take
+1.) One of the most profitable opportunities that online banks should take
 advantage of is the expansion of financial markets. 
+2.) online banks would be able to differentiate their services and thus achieving a competitive advantage not only over other online banks, both domestic and foreign, but also over traditional banks and other financial institutions.
+3.)The collaboration between banks and other stakeholders sets the
+basis for the implementation of new business strategies which eventually lead
+to value creation for both customers and banks.
+4.)Another big opportunity is represented by the extensive net of contacts
+offered by the Internet. In fact, Internet enhances
+communication and networking opening the path for new business
+opportunities which involve the collaborations between banks and other newly created professional figures such as online stores and service providers. 
 
+Threats:--
+1.0Online banks are threatened by traditional banks which offer
+differentiated products, financial institutions which provide specific financial
+solutions and above all foreign banks. 
+2.) The lack of supervision on online activities and the implementation of effective legal norms prevent online banks from running a flawless business.
+3.)  The growth of those companies that have replaced the banks is a major drawback for Open Banking. The Fintech market is growing. Their services are diverse and more and more there in a large number .
 
 
