@@ -8,9 +8,13 @@ Users need to register an account with an account number, phone number, and pass
 ## High Level Requirement
 
 1.) To view list of functions.
+
 2.) To select the operation which user want to perform in their account.
+
 3.) To perform the selected operation that the user had choosen .
+
 4.)To get the required result by system  as per the user.
+
 
 ## Low Level Requirement
 
