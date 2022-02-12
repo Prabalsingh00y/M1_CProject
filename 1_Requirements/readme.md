@@ -51,10 +51,11 @@ communication and networking opening the path for new business
 opportunities which involve the collaborations between banks and other newly created professional figures such as online stores and service providers. 
 
 Threats:--
-1.0Online banks are threatened by traditional banks which offer
+1.Online banks are threatened by traditional banks which offer
 differentiated products, financial institutions which provide specific financial
 solutions and above all foreign banks. 
 2.) The lack of supervision on online activities and the implementation of effective legal norms prevent online banks from running a flawless business.
 3.)  The growth of those companies that have replaced the banks is a major drawback for Open Banking. The Fintech market is growing. Their services are diverse and more and more there in a large number .
-
+ # 4 W's 1_H
+ 
 
