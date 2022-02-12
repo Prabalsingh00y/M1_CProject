@@ -5,7 +5,7 @@ Discription-- Online banking allows a user to conduct financial transactions via
 These are the services which this system will provide. 
 These are the facilities and functions required by thecustomer
 a) Online balance check.
-b) Online shopping opportunity.
+b) Cash Withdrawl
 c) Updating the data.
 d) Balance transfer.
 e) Check book Allotment.
