@@ -14,17 +14,11 @@ Online banking allows a user to conduct financial transactions via the Internet.
 |4_TestPlanAndOutput|Documents with test plans and procedures|
 |5_Report|Attach Report with all the scope of work|
 |6_ImagesAndVideos|All images related to the programming and video|
-## References
-Synopsis(https://www.freestudentprojects.com)
-ProjectLab(https://123projectlab.com/)
-codewithc(https://www.codewithc.com/mini-project-in-c-bank-management-system/)
-Projectgeek(https://projectsgeek.com/2013/06/banking-project-in-c-language-source-code.html)
-Youtube(https://youtu.be/eGaImwD8fPQ)
-## References
+## Reference:
 |S.No.|Links|
 |:-:|:--:|
-|1| [Synopsis](https://www.freestudentprojects.com|
-|2|[Project Lab](https://123projectlab.com/online-banking-system|
+|1|  [Synopsis](https://www.freeprojectz.com/premium-synopsis/synopsis-online-banking-system#:~:text=%20Features%20of%20Online%20Banking%20System%20are%20as,as%20Accounts%2C%20Transaction%2C%20Statement%20are%20validated...%20More%20)|
+|2|[Project Lab](https://123projectlab.com/online-banking-system/#:~:text=%20Goals%20of%20the%20Online%20banking%20system%20project,project%20will%20make%20activities%20like%20updating%2C...%20More%20)|
 |3|[codewithc](https://www.codewithc.com/mini-project-in-c-bank-management-system/)|
 |4|[Projectgeek](https://projectsgeek.com/2013/06/banking-project-in-c-language-source-code.html)|
 |5|[Youtube](https://youtu.be/eGaImwD8fPQ)|
