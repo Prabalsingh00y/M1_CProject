@@ -1,15 +1,12 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
-
-
 struct user {
 	char phone[50];
 	char ac[50];
 	char password[50];
 	float balance;
 };
-
 int main(){
 	struct user user,usr;
 	char filename[50],phone[50],password[50],phone2[50];
@@ -64,7 +61,6 @@ int main(){
 					case 1:
 						printf("Your current balance is Rs. %.2f",user.balance);
 						break;
-
 					case 2:
 						system("cls");
 						printf("Enter amount to be added:\t");
@@ -75,7 +71,6 @@ int main(){
 						if(fwrite !=0) printf("\n\nYou have depostied Rs.%d",amount);
 						fclose(fp);
 						break;
-
 					case 3:
 						system("cls");
 						printf("Enter withdrawl amount:\t");
@@ -90,7 +85,6 @@ int main(){
 						fclose(fp);
 						}
 						break;
-					
 					case 4:
 						printf("Please enter the phone number to trasnfer balance:\t");
 						scanf("%s",phone);
@@ -102,14 +96,12 @@ int main(){
 							if(fptr==NULL) printf("Sorry number is not registered");
 							else {
 								fread(&usr,sizeof(struct user),1,fptr);
-								fclose(fptr);
-							
-								usr.balance += amount;
-								
+								fclose(fptr);	
+								usr.balance += amount;							
 								fptr = fopen(phone,"w");
 								fwrite(&usr,sizeof(struct user),1,fptr);
 								if(fwrite != 0){
-								// 	printf("ACcount:%s",usr.ac);
+								// printf("ACcount:%s",usr.ac);
 								// printf("\npassword%s",usr.password);
 								// printf("\nphone%s",usr.phone);
 								// printf("\nbalance%f",usr.balance);
@@ -137,7 +129,6 @@ int main(){
 							fclose(fp);	
 							printf("\nPassword succesfullly changed");
 						}else printf("\nSorry your password is wrong");
-					
 					default:
 					break;
 				}//switch ends here
@@ -151,6 +142,5 @@ int main(){
 		}
 		printf("\n\n*Thank you for banking with ADV. bank*\n\n");
 	}
-	
 	return 0;
 }
