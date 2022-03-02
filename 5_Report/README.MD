@@ -1,4 +1,14 @@
 # Online Banking System 
+## Folder Structure
+|Folder|Description|
+|:-:|:--:|
+|0_Certficate|Sololearn, NDG Linux, Git, HackerEarth|
+|1_Requirement|Documents detailing requirements and research|
+|2_Architecture|Documents specifying design details|
+|3_Implementation|All code and documentation|
+|4_TestPlanAndOutput|Documents with test plans and procedures|
+|5_Report|Attach Report with all the scope of work|
+|6_ImagesAndVideos|All images related to the programming and video|
 ##  Overview of Mini Project
  Online banking allows a user to conduct financial transactions via the Internet. Online banking offers customers almost every service traditionally available through a local branch including deposits, transfers, and online bill payments. The online banking interface is primarily designed for online banking for balance inquiry, depositing cash, cash withdrawal, online transfer, and password change.  This project offers a real life understanding of the online banking System environment.
 The design of this Online Banking System where users will be able to register an account on the application. so that the user can perform all the functions  provided by the bank.so that  user can login to an account, can check their balance, deposit the cash,and also withdrawal the cash, they can also transfer fund  to another account of same existing bank,  and the user also allows change their passwordof their bank account.
