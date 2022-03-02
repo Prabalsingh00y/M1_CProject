@@ -32,6 +32,6 @@ The design of this Online Banking System where users will be able to register an
 ## Reference
 |S.No.|Links|
 |:-:|:--:|
-|3|[codewithc](https://www.codewithc.com/mini-project-in-c-bank-management-system/)|
-|4|[Projectgeek](https://projectsgeek.com/2013/06/banking-project-in-c-language-source-code.html)|
-|5|[Youtube](https://youtu.be/eGaImwD8fPQ)|
+|1|[codewithc](https://www.codewithc.com/mini-project-in-c-bank-management-system/)|
+|2|[Projectgeek](https://projectsgeek.com/2013/06/banking-project-in-c-language-source-code.html)|
+|3|[Youtube](https://youtu.be/eGaImwD8fPQ)|
