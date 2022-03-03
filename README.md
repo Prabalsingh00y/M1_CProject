@@ -6,16 +6,6 @@ An online banking system will be applicable everywhere, where banking exists. It
 ## Introduction
 The online banking interface is primarily designed for online banking for balance inquiry, depositing cash, cash withdrawal, online transfer, and password change.
 Online banking allows a user to conduct financial transactions via the Internet. Online banking offers customers almost every service traditionally available through a local branch including deposits, transfers, and online bill payments. The online banking interface is primarily designed for online banking for balance inquiry, depositing cash, cash withdrawal, online transfer, and password change. The most typical way to retain the data of a customer in a bank was to enter and register the details: Any time when consumer has to make any transactions, he must go to the bank and take the required steps, which might not be possible all the time. This project offers a real life understanding of the online banking System environment.
-## Folder Structure
-|Folder|Description|
-|:-:|:--:|
-|0_Certficate|Sololearn, NDG Linux, Git, HackerEarth|
-|1_Requirement|Documents detailing requirements and research|
-|2_Architecture|Documents specifying design details|
-|3_Implementation|All code and documentation|
-|4_TestPlanAndOutput|Documents with test plans and procedures|
-|5_Report|Attach Report with all the scope of work|
-|6_ImagesAndVideos|All images related to the programming and video|
 ## Reference
 |S.No.|Links|
 |:-:|:--:|
