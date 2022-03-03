@@ -1,5 +1,7 @@
 # Online Banking System
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f84848cc522f4e3b898e0838ab145f75)](https://www.codacy.com/gh/Prabalsingh00y/M1_CProject_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Prabalsingh00y/M1_CProject_App&amp;utm_campaign=Badge_Grade)
+![Code Quality](https://api.codiga.io/project/31546/score/svg)
+![Code Grade](https://api.codiga.io/project/31546/status/svg)
 ## Abstract
 The purpose of this document is to present a detailed description of the Online Banking System. The Online Banking Interface is primarily designed for Online banking for Balance Enquiry, depositing cash , Cash withdrawl, Online Tranfer and Password Change.  It will explain thepurpose and features of the system, the interfaces of the system,what the system will do, the constraints under which it must operateand how the system will react to external stimuli. This document is intended for both the stakeholders and the developers of the systemand will be liable for the approval or disapproval of the project bythe community of the Bank.
 An online banking system will be applicable everywhere, where banking exists. It will be more efficient and easier way to have a record on systems.The Projet offers a real life understanding of the online banking enviornment.
@@ -14,4 +16,4 @@ Online banking allows a user to conduct financial transactions via the Internet.
 |3|[codewithc](https://www.codewithc.com/mini-project-in-c-bank-management-system/)|
 |4|[Projectgeek](https://projectsgeek.com/2013/06/banking-project-in-c-language-source-code.html)|
 |5|[Youtube](https://youtu.be/eGaImwD8fPQ)|
-## In this Miniproject and code,I had taken help from youtube and google to make this
+## In this Miniproject and code,I had taken help from youtube and google to make this.
