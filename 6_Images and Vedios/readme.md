@@ -28,4 +28,4 @@ You have withdrawn
 ![Screenshot (313)](https://user-images.githubusercontent.com/98878562/153710458-48624d8e-e376-43bd-876f-1f9aa118f0f1.png)
 ![Screenshot (314)](https://user-images.githubusercontent.com/98878562/153710460-acb3abc7-50fd-402d-9c04-f28944323f1b.png)
 ![Screenshot (315)](https://user-images.githubusercontent.com/98878562/153710461-5410dc3c-a00a-40eb-af2c-717d81837646.png)
-User seen Password succesfullly changed
+User seen Password succesfullly changed.
