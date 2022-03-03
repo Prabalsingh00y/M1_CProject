@@ -18,3 +18,4 @@
 |LLR08|Online Transfer|Float Value|Float Output|Float Output|Manual Test|
 |LLR09|Password Change|Char Value|Char Output|Char Output|Manual Test|
 |LLR010|Password Change|Float Value|Terminated|Terminated|Manual Test|
+# Output is explained in image and vedioes folder, each and every step.
