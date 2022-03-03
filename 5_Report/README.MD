@@ -32,13 +32,13 @@ The design of this Online Banking System where users will be able to register an
 -   Then User can opt for  the option to enter the amount to transfer.
 -   When the amount that is mentioned is above than your  account balance , it shows insufficient balance.
 -   When the user mentioned the wrong phone number, the amount does not transferred.
--   When the user enters the correct information,So  it is successfully transferred. 
+-   When the user enters the correct information,So it successfully transferred. 
 ## Change Password
 -   User can opt for the option to enter the new password.
 -   When the user enters the new password, it displayed the password has successfully changed.
 ## Conclusion
 -   E-banking offers a higher level of convenience for managing one's finances. However, it continues to present challenges to financial security and personal privacy. Many people have had their account details compromised, as a result of online banking .The main aim of e-banking is to make transactions through online poses easier and more beneficial for customers.
--   The online banking system application provides a very interactive, efficient, and secure way to deposit a customer's essential financial information into an account whose account number is only known to the customer.This project offers a real life understanding of the online banking System environment.  The best important aspect of online banking is that it's very easy to use and manage financial transaction into the account. 
+-   The online banking system application provides a very interactive, efficient, and secure way to deposit a customer's essential financial information into an account whose account number is only known to the customer.This project offers a real life understanding of the online banking System environment.  The best important aspect of online banking is that it's very easy to use and manage financial transaction into the account..
 ## Reference
 |S.No.|Links|
 |:-:|:--:|
