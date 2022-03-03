@@ -32,4 +32,4 @@ In This , The user allows to access their account details at any time by enterin
 ## Why-
 In  todays time ,the Online banking systems became most important to the users  because  in these days there are so many people who will not able to reach their bank, because their busy schedule so it's  very easy and convienient way for those users to perform these tasks  by using their gadgets like  Mobile/Laptop.
 ## How -
-In This, The user must have to register first in the account, and then,  by using their credentials like account  id and password, they can perform  several functions like balance inquiries and many more..
+In This, The user must have to register first in the account, and then,  by using their credentials like account  id and password, they can perform  several functions like balance inquiries and many more.
