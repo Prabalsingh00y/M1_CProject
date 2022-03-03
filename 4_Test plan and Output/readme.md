@@ -5,7 +5,7 @@
 |HLR02|Check if the system handles condition|InValid Inut|Terminated|Terminated|Manual Test|
 |HLR03|Check for the flow control jump|For Valid Inut|Correct|Correct|Manual Test|
 |HLR04|Checkfor the flow control jump|For InValid Inut|Terminated|Terminated|Manual Test|
-## Low Level Test Plan
+## Low Level Test Plan 
 |Test id|Description|Ex I\P|ExO\p|Actual Output|Tyoe of test|
 |:-:|:--:|:-:|:--:|:-:|:--:|
 |LLR01|Register an Account|Char Value|Char Output|Char Output|Manual Test|
