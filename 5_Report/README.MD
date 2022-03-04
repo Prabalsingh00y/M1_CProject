@@ -14,6 +14,10 @@
 The design of this Online Banking System where users will be able to register an account on the application. so that the user can perform all the functions  provided by the bank.so that  user can login to an account, can check their balance, deposit the cash,and also withdrawal the cash, they can also transfer fund  to another account of same existing bank,  and the user also allows change their passwordof their bank account.
 ## Scope of work
 -   First User have to  create/register his own account  by entering their  credentials like account number, phone number, and passwordand then he  can login their account with their phone number and password to access all th functions.
+## Code Badges
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f84848cc522f4e3b898e0838ab145f75)](https://www.codacy.com/gh/Prabalsingh00y/M1_CProject_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Prabalsingh00y/M1_CProject_App&amp;utm_campaign=Badge_Grade)
+![Code Quality](https://api.codiga.io/project/31546/score/svg)
+![Code Grade](https://api.codiga.io/project/31546/status/svg)
 ## Home
 -   User can view different functions  on the homepage.
 -   User have the option for the checking their  balance.
