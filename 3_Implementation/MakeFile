@@ -1,0 +1,26 @@
+PROJ_NAME= BANKING
+SRC= main.c banking.c
+
+TEST_SRC= test_banking.c unity.c banking.c
+
+ifdef OS
+RM = del/q
+FixPath - $(subst /,\,&1)
+EXEC =EXEC
+else
+ifeq(&(shell uname), Linux)
+RM = rm -rf
+FixPath = $1
+EXEC = out
+endif
+endif
+
+Build:
+gcc $(SRC)-o $(call FixPath,$(PROJ_NAME).$(EXE)) 
+run:Build
+./$(call FixPath,$(PROJ_NAME).$(EXE))
+
+Build_Test:
+gcc $(TEST_SRC)-o $(call FixPath,$(PROJ_NAME).$(EXE)) 
+run:Build_test
+./$(call FixPath,$(PROJ_NAME).$(EXE))
