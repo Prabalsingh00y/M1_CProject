@@ -52,7 +52,6 @@ The design of this Online Banking System where users will be able to register an
 =======
 -   ## FlowChart
 -   ![AllFunctions Mini project (1)](https://user-images.githubusercontent.com/98878562/156694260-8d20ba03-8efc-47e7-93f2-2875e67e6843.jpg)
->>>>>>> 03d80465ea3320c8ba63213ec8c241182d2598ff
 ## Conclusion
 -   E-banking offers a higher level of convenience for managing one's finances. However, it continues to present challenges to financial security and personal privacy. Many people have had their account details compromised, as a result of online banking .The main aim of e-banking is to make transactions through online poses easier and more beneficial for customers.
 -   The online banking system application provides a very interactive, efficient, and secure way to deposit a customer's essential financial information into an account whose account number is only known to the customer.This project offers a real life understanding of the online banking System environment.  The best important aspect of online banking is that it's very easy to use and manage financial transaction into the account..
