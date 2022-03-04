@@ -4,8 +4,6 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/*",
-                "C:\\MinGW\\x86_64-w64-mingw32\\include",
-                "C:\\WinAVR-20100110\\avr32\\include"
             ],
             "defines": [
                 "_DEBUG",

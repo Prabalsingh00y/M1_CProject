@@ -1,26 +1,39 @@
-PROJ_NAME= BANKING
-SRC= main.c banking.c
+PROJ_NAME= banking
+SRC=src/main.c\
+src/banking.c\
 
-TEST_SRC= test_banking.c unity.c banking.c
+TEST_SRC=src/test_banking.c\
+src/banking.c\
+unity/unity.c\
 
 ifdef OS
-RM = del/q
-FixPath - $(subst /,\,&1)
-EXEC =EXEC
+   RM = del /q
+   FixPath = $(subst /,\,$1)
+   EXEC = exe
 else
-ifeq(&(shell uname), Linux)
-RM = rm -rf
-FixPath = $1
-EXEC = out
-endif
+   ifeq ($(shell uname), Linux)
+      RM = rm -rf
+      FixPath = $1
+	   EXEC = out
+   endif
 endif
 
-Build:
-gcc $(SRC)-o $(call FixPath,$(PROJ_NAME).$(EXE)) 
-run:Build
-./$(call FixPath,$(PROJ_NAME).$(EXE))
+INC=-Iinc\
+-Iunity\
 
-Build_Test:
-gcc $(TEST_SRC)-o $(call FixPath,$(PROJ_NAME).$(EXE)) 
-run:Build_test
-./$(call FixPath,$(PROJ_NAME).$(EXE))
+
+Build : $(SRC)
+	gcc $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC))
+
+run : Build
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+
+
+Build_test : 
+	gcc $(TEST_SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+
+run_test : Build_test
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+
+static_analysis:
+	cppcheck --enable=all $(SRC)
